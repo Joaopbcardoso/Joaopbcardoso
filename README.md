@@ -1,4 +1,4 @@
-# Olá, meu nome é João Pedro Benvenutti
+# Olá, meu nome é João Pedro Benvenutti <img sic=https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-notas-musicais-5.gif>
 
 ## Sobre Mim:
 - Cursando desenvolvimento de sistemas no SENAI<br>
