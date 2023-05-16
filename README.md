@@ -1,4 +1,8 @@
-# 🎶Olá, meu nome é ***João Pedro Benvenutti***🎶
+<div align="center"> 
+ 
+  # 🎶 Olá, meu nome é **João Pedro Benvenutti** 🎶
+
+</div>
 
 ## Sobre Mim:
 - Cursando desenvolvimento de sistemas no SENAI<br>
