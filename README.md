@@ -27,6 +27,13 @@
 
 [![](https://visitcount.itsvg.in/api?id=Joaopbcardoso&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+
 
  
 
