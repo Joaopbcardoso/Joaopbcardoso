@@ -1,11 +1,12 @@
 <div align="center"class="fade-in"> 
  
  
-  # 🎶 Olá, meu nome é **João Pedro Benvenutti** 🎶
+  # 🎶 Seja bem vindo(a) 🎶
+ 
+ ## Meu nome é João Pedro Benvenutti
 
 
 </div>
-
 
 ## Sobre Mim:
 - Cursando desenvolvimento de sistemas no SENAI<br>
@@ -33,6 +34,9 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=Joaopbcardoso&icon=0&color=0)](https://visitcount.itsvg.in)
+
+ ![Snake animation](https://github.com/Joaopcardoso/Joaopbcardoso/blob/output/github-contribution-grid-snake.svg)
+ 
 
 
 
