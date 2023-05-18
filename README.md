@@ -8,12 +8,12 @@
 </div>
 
 
-## Sobre Mim:
-### Proficional
+## 📌 Sobre Mim:
+### Proficional:
 - Nasci no dia 23 de Janeiro de 2007
 - Cursando desenvolvimento de sistemas no SENAI </>
 - Cursando segundo ano do Ensino Médio 📚
-### Pessoal
+### Pessoal:
 - Guitarrista 🎸
 - Violonista ♬
 - Baterista 🥁
@@ -22,7 +22,7 @@
 ## 🌐 Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joaopedro.benvenutti.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaobenvenutti_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-benvenutti)
 
-# 💯 Portfolio:
+# 📂 Portfolio:
 [![Portfolio](https://img.shields.io/badge/Meu%20Portfolio-454FA9?style=for-the-badge&logo=Google&Sites&logoColor=white)](https://sites.google.com/estudante.sesisenai.org.br/joao-pedro-vidal/p%C3%A1gina-inicial)
 
 ## 💻 Ferramentas:
