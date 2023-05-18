@@ -18,7 +18,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joaopedro.benvenutti.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaobenvenutti_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-benvenutti)
 
 # 💯 Portfolio:
-![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-blue?style=for-the-badge&logo=Google&Sites&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-%230077B5.svg?logo=google&logoColor=white)](https://sites.google.com/estudante.sesisenai.org.br/joao-pedro-vidal/p%C3%A1gina-inicial)
 
 ## 💻 Ferramentas:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
