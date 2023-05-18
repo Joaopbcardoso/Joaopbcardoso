@@ -1,17 +1,19 @@
-<div align="center"class="fade-in"> 
+<div align="center"> 
  
  
   # 🎶 Seja bem vindo(a) 🎶
  
  ## 🎸Meu nome é ***João Pedro Benvenutti***🎸
 
-
 </div>
 
+
 ## Sobre Mim:
-- Cursando desenvolvimento de sistemas no SENAI<br>
-- Cursando segundo ano do Ensino Médio
-- 
+- Cursando desenvolvimento de sistemas no SENAI </>
+- Cursando segundo ano do Ensino Médio 📚
+- Guitarrista 🎸
+- Violonista ♬
+- Baterista 🥁
 
 
 ## 🌐 Redes Sociais:
