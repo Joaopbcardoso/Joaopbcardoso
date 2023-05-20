@@ -1,8 +1,7 @@
 <div align="center"> 
- 
- 
-  # 🎶 Seja bem vindo(a) 🎶
- 
+  
+ # 🎶 Seja bem vindo(a) 🎶
+  
  ## 🎸Meu nome é ***João Pedro Benvenutti***🎸
 
 </div>
