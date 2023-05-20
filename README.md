@@ -26,7 +26,7 @@
 ## 💻 Ferramentas:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
  ![SQlite](https://img.shields.io/badge/SQlite-07405E?style=for-the-badge&logo=SQlite&logoColor=white)
- ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=yellow)
+ ![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=Linux&logoColor=yellow)
  ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-30A1EB?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 <br> 
 
