@@ -8,12 +8,9 @@
 
 
 ## 📌 Sobre Mim:
-### Status:
 - Nasci no dia 23 de Janeiro de 2007
 - Cursando desenvolvimento de sistemas no SENAI </>
 - Cursando segundo ano do Ensino Médio 📚
----
-### Curiosidades:
 -  Guitarrista 🎸
 - Violonista ♬
 - Baterista 🥁
