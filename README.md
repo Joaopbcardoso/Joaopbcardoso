@@ -7,16 +7,14 @@
 </div>
 
 
-## 📌 Sobre Mim:
-### 
-- Cursando desenvolvimento de sistemas no SENAI </>
-- Cursando segundo ano do Ensino Médio 📚
-
+### 📌 Sobre Mim:
 - Nasci no dia 23 de Janeiro de 2007
 -  Guitarrista 🎸
 - Violonista ♬
 - Baterista 🥁
-
+### Status
+- Cursando desenvolvimento de sistemas no SENAI </>
+- Cursando segundo ano do Ensino Médio 📚
 
 ## 🌐 Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joaopedro.benvenutti.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaobenvenutti_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-benvenutti)
