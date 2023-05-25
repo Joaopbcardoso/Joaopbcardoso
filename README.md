@@ -24,10 +24,11 @@
  ![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=Linux&logoColor=yellow)
  ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-30A1EB?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
  
-<br> 
+
 ## 📊 Status do GitHub:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joaopbcardoso&theme=tokyonight&hide_border=false)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
  
