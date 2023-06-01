@@ -29,7 +29,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joaopbcardoso&theme=tokyonight&hide_border=false)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaopbcardoso&show_icons=true&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=Joaopbcardoso&icon=0&color=0)](https://visitcount.itsvg.in)
 
