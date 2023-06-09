@@ -23,6 +23,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![SQlite](https://img.shields.io/badge/SQlite-07405E?style=for-the-badge&logo=SQlite&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=Linux&logoColor=yellow)
  ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-30A1EB?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  
 
 ## 📊 Status do GitHub:
