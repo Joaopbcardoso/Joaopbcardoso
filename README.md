@@ -38,7 +38,7 @@
 
 ## 🎖 Certificados:
 
-![alurahtml1](https://cursos.alura.com.br/user/joao-pb-cardoso/course/html5-css3-parte-1-pagina-web/certificate)
+https://cursos.alura.com.br/user/joao-pb-cardoso/course/html5-css3-parte-1-pagina-web/certificate
 
 
 
