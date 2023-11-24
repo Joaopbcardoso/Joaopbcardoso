@@ -36,13 +36,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopbcardoso&langs_count=8)
 
-## 🎖 Certificados:
 
-https://cursos.alura.com.br/user/joao-pb-cardoso/course/html5-css3-parte-1-pagina-web/certificate
-
-https://cursos.alura.com.br/user/joao-pb-cardoso/course/html5-css3-formularios-tabelas/certificate
-
-https://cursos.alura.com.br/user/joao-pb-cardoso/course/html5-css3-posicionamento-listas-navegacao/certificate
 
 
 
