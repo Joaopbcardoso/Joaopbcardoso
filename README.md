@@ -6,23 +6,17 @@
 
 </div>
 
-### 📌 Sobre Mim:
-- Nasci no dia 23 de Janeiro de 2007
--  Guitarrista 🎸
-- Violonista ♬
-- Baterista 🥁
 ### Status
-- Cursando desenvolvimento de sistemas no SENAI </>
-- Cursando terceiro ano do Ensino Médio 📚
+- Trabalho na F.U.S.S
 ## 🌐 Redes Sociais:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joaopedro.benvenutti.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaobenvenutti_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-benvenutti)
+[![Facebook](https://img.shields.io/badge/Facebook-%23000000.svg?logo=Facebook&logoColor=white)](https://facebook.com/joaopedro.benvenutti.5) [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaobenvenutti_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-benvenutti)
+
 # 📂 Portfolio:
-[![Portfolio](https://img.shields.io/badge/Meu%20Portfolio-454FA9?style=for-the-badge&logo=Google&Sites&logoColor=white)](https://sites.google.com/estudante.sesisenai.org.br/joao-pedro-vidal/p%C3%A1gina-inicial)
+[![Portfolio](https://img.shields.io/badge/Meu%20Portfolio-%23000000?style=for-the-badge&logo=Google&Sites&logoColor=white)](https://sites.google.com/estudante.sesisenai.org.br/joao-pedro-vidal/p%C3%A1gina-inicial)
+
 ## 💻 Ferramentas:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![SQlite](https://img.shields.io/badge/SQlite-07405E?style=for-the-badge&logo=SQlite&logoColor=white)
- ![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=Linux&logoColor=yellow)
- ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-30A1EB?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)  ![SQlite](https://img.shields.io/badge/SQlite-%23000000.svg?style=for-the-badge&logo=SQlite&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=Linux&logoColor=white)  ![ReactJS](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)![ReactNative](https://img.shields.io/badge/React%20Native-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
+
 
  
 
