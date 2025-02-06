@@ -1,8 +1,8 @@
 <div align="center"> 
   
- # 🎶 Wellcome to my profile 🎶
+ # 🎶 Welcome to my profile 🎶
   
- ## 🎸My name is ***João Pedro Benvenutti***🎸
+ ## 🎸 I'm  ***João Pedro Benvenutti***🎸
 
 </div>
 
