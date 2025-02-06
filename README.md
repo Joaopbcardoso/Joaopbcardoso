@@ -1,13 +1,11 @@
 <div align="center"> 
   
- # 🎶 Seja bem vindo(a) 🎶
+ # 🎶 Wellcome to my profile 🎶
   
- ## 🎸Meu nome é ***João Pedro Benvenutti***🎸
+ ## 🎸My name is ***João Pedro Benvenutti***🎸
 
 </div>
 
-### Status
-- Trabalho na F.U.S.S
 ## 🌐 Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%23000000.svg?logo=Facebook&logoColor=white)](https://facebook.com/joaopedro.benvenutti.5) [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaobenvenutti_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-benvenutti)
 
